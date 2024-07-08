@@ -1,0 +1,8 @@
+# Abaikan semua file .log
+*.log
+
+# Abaikan direktori build
+/warung-goceng/dist/
+/warung-goceng/node_modules/
+
+# Tetapi lacak file build/script.log, meskipun .log diabaikan
